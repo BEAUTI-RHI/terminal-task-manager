@@ -1,3 +1,5 @@
-./code/*.exe
+code/*.exe
 
+*.swp
+code/*.swp
 
